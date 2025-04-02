@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fraud Detection Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 30px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        img {
+            margin-bottom: 30px;
+            border: 1px solid #ccc;
+            padding: 8px;
+            background: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>🛡️ Fraud Detection Dashboard</h1>
+
+    {% if uploaded %}
+        <p><strong>Total Sequences:</strong> {{ fraud_count + safe_count }}</p>
+        <p><strong>🚨 Fraudulent:</strong> {{ fraud_count }}</p>
+        <p><strong>✅ Safe:</strong> {{ safe_count }}</p>
+
+        <h2>📊 Fraud vs Safe</h2>
+        <img src="{{ url_for('static', filename='fraud_vs_safe.png') }}" width="600">
+
+        <h2>📈 Fraud Score Distribution</h2>
+        <img src="{{ url_for('static', filename='fraud_score_distribution.png') }}" width="800">
+
+        <h2>🥧 Fraud Distribution (Pie)</h2>
+        <img src="{{ url_for('static', filename='fraud_pie_chart.png') }}" width="400">
+
+        <!-- <h2>🔥 Fraud Score Heatmap</h2>
+        <img src="{{ url_for('static', filename='fraud_score_heatmap.png') }}" width="800"> -->
+
+        <h2>🧠 GenAI Explanation Stats (Pie)</h2>
+        <img src="{{ url_for('static', filename='genai_explanation_stats_pie.png') }}" width="500">
+
+        <h2>📘 Top 3 Frequent Fraud Sequences</h2>
+        <img src="{{ url_for('static', filename='top3_frequent_fraud_sequences.png') }}" width="800">
+
+    {% else %}
+        <p>No data found. Please make sure <code>fraud_batch_results.csv</code> exists one level above <code>app/</code>.</p>
+    {% endif %}
+</body>
+</html>

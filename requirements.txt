@@ -1,0 +1,5 @@
+openvino-dev
+onnxruntime
+numpy
+pandas
+streamlit  # Optional for UI later

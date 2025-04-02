@@ -1,0 +1,106 @@
+Max Fraud Score,Fraud Detected,GenAI Explanation
+0.9692,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.8443,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.0012,0,✅ No suspicious behavior detected.
+0.0001,0,✅ No suspicious behavior detected.
+0.913,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9895,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.8828,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.9888,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0431,0,✅ No suspicious behavior detected.
+0.3849,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.033,0,✅ No suspicious behavior detected.
+0.025,0,✅ No suspicious behavior detected.
+0.8599,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.5415,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.1227,0,✅ No suspicious behavior detected.
+0.9994,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9987,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9999,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.6454,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.9977,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9591,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.7342,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.0786,0,✅ No suspicious behavior detected.
+0.912,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0173,0,✅ No suspicious behavior detected.
+0.0775,0,✅ No suspicious behavior detected.
+0.9992,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0329,0,✅ No suspicious behavior detected.
+0.0052,0,✅ No suspicious behavior detected.
+0.0443,0,✅ No suspicious behavior detected.
+0.9988,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.8077,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.4678,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.8279,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.8677,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.3223,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.9917,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0253,0,✅ No suspicious behavior detected.
+0.0167,0,✅ No suspicious behavior detected.
+0.0,0,✅ No suspicious behavior detected.
+0.8375,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.9795,1,⚠️ Highly suspicious behavior with sudden score spike.
+1.0,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9999,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0065,0,✅ No suspicious behavior detected.
+0.0129,0,✅ No suspicious behavior detected.
+0.0002,0,✅ No suspicious behavior detected.
+0.0434,0,✅ No suspicious behavior detected.
+0.0006,0,✅ No suspicious behavior detected.
+0.0026,0,✅ No suspicious behavior detected.
+0.0001,0,✅ No suspicious behavior detected.
+0.9605,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.013,0,✅ No suspicious behavior detected.
+0.999,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0018,0,✅ No suspicious behavior detected.
+0.0005,0,✅ No suspicious behavior detected.
+1.0,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.5769,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.0061,0,✅ No suspicious behavior detected.
+0.1103,0,✅ No suspicious behavior detected.
+0.2772,0,✅ No suspicious behavior detected.
+0.9971,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9936,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.8089,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.0008,0,✅ No suspicious behavior detected.
+0.0002,0,✅ No suspicious behavior detected.
+0.8584,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.0482,0,✅ No suspicious behavior detected.
+0.0029,0,✅ No suspicious behavior detected.
+0.0002,0,✅ No suspicious behavior detected.
+0.9928,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0951,0,✅ No suspicious behavior detected.
+0.0005,0,✅ No suspicious behavior detected.
+0.0,0,✅ No suspicious behavior detected.
+0.0276,0,✅ No suspicious behavior detected.
+0.7923,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.7204,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.2,0,✅ No suspicious behavior detected.
+0.0,0,✅ No suspicious behavior detected.
+0.0003,0,✅ No suspicious behavior detected.
+0.9823,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.991,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.0355,0,✅ No suspicious behavior detected.
+0.9321,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9873,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.7309,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.3173,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.9964,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9974,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.3234,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.335,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.0077,0,✅ No suspicious behavior detected.
+0.0002,0,✅ No suspicious behavior detected.
+0.9999,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.7538,1,⚠️ Unusual activity pattern detected — possibly high-risk.
+0.9996,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9258,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.985,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.3115,1,"⚠️ Slightly abnormal behavior, worth investigating."
+0.0055,0,✅ No suspicious behavior detected.
+0.0019,0,✅ No suspicious behavior detected.
+0.1763,0,✅ No suspicious behavior detected.
+1.0,1,⚠️ Highly suspicious behavior with sudden score spike.
+0.9082,1,⚠️ Highly suspicious behavior with sudden score spike.
+1.0,1,⚠️ Highly suspicious behavior with sudden score spike.
